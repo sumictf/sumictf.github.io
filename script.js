@@ -11,12 +11,12 @@ window.onload = function(){
   firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 let lektop = document.querySelector('#lektop');
 lektop.addEventListener('click', ()=>{
-	window.open('https://lektop158.github.io', '_blank');
+	window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank');
 })
 function AlertMsg() {
 var zombig = confirm ("You are getting redirected. Click OK to continue.")
 if (zombig)
-window.location="http://lektop159.github.io";
+window.location="https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 }
 
 // sumictf{never_give_up}
