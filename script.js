@@ -19,7 +19,7 @@ if (zombig)
 window.location="http://lektop159.github.io";
 }
 
-
+// sumictf{never_give_up}
 // Находим элементы на странице
 let input = document.getElementById("input-text");
 let encryptButton = document.getElementById("encrypt-button");
